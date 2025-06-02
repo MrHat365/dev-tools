@@ -1,0 +1,4 @@
+httpx>=0.25.0
+asyncio>=3.4.3
+typing-extensions>=4.0.0
+loguru>=0.7.0 
